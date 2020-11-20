@@ -29,3 +29,4 @@ npm i eslint@7.13.0 -DE
 ## command
 
 * git cherry-pick -n --strategy-option theirs
+* git fetch --all
