@@ -8,7 +8,7 @@ import {render, RenderPosition, remove} from "./utils/render.js";
 import {MenuItem, UpdateType, FilterType} from "./const.js";
 import Api from "./api.js";
 
-const AUTHORIZATION = `Basic hS2sd3dfSwcl1sa2j`;
+const AUTHORIZATION = `Basic hS2sd3dfSwcl1sa2`;
 const END_POINT = `https://13.ecmascript.pages.academy/task-manager`;
 
 const siteMainElement = document.querySelector(`.main`);
